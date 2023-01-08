@@ -1,5 +1,5 @@
 <div align="center">
-  <h4>I'm สท.นัมเบอร์วัน (Sortor Numberone)</h4>
+  <h4>I'm สท.สุดทางรัก (Sortor Sudtangrak)</h4>
   <h3>บริการ (Services)</h3>
 </div>
 
