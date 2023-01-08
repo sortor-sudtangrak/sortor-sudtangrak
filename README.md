@@ -10,7 +10,7 @@
 <p>✔️ รับทำ SEO | Search engine optimization.</p>
 <p>✔️ รับออกแบบแบรนด์โลโก้ | Designing brand logo.</p>
 <p>✔️ รับแก้ไขปัญหาคอมพิวเตอร์ (Error บนวินโดว์, เปิดโปรแกรมไม่ได้ ฯลฯ) | Fixing Windows errors.</p>
-<p>✔️ จำหน่ายวินโดว์ 10 โมดิฟาย (ไฟล์เล็ก กินสเปคต่ำ เล่นเกมลื่นกว่าเดิม ไม่ต้อง Activate Windows License) | Selling Windows optimized version.</p>
+<p>✔️ จำหน่ายวินโดว์ 10 โมดิฟาย (ไฟล์เล็ก กินสเปคต่ำ เล่นเกมลื่นกว่าเดิม ไม่ต้อง Activate Windows License)</p>
 <p>✔️ จำหน่ายคีย์วินโดว์ราคาถูก | Selling cheap Windows license key.</p>
 <p>✔️ จำหน่ายชุดโปรแกรมสำเร็จรูปที่จำเป็นหลังจากลงวินโดว์เสร็จ | Selling post-install necessary programs for Windows.</p>
 
